@@ -2,9 +2,19 @@
   <img alt="Logo Barbearia" src="/images/logo.png" />
 </h1>
 
-<p align="center"> <strong>Barbearia Alura</strong> é uma página web desenvolvida durante o curso de HTML5 e CSS3 promovida pela. <a href="https://www.alura.com.br/" title="Alura">Alura. </p>
+<p align="center"> <strong>Barbearia Alura</strong> é uma página web desenvolvida com objetivo de proporcionar auto-estima e qualidade de vida aos clientes. </p>
 
- ---
+<p align="center"> Você pode visualizar a página inicial na imagem abaixo ou clicando <strong> <a href="https://projeto-barbearia-alura.netlify.app/" title="barbearia-alura">aqui. </strong> </p>
+  
+<h1 align="center">
+  <img alt="Layout Página Principal" src="/images/layout-index.png" />
+</h1> 
+  
+---
+
+
+
+
 ## 🚀 Tecnologias
 * Html
 * CSS
